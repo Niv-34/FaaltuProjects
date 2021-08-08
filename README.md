@@ -1,0 +1,2 @@
+# FaaltuProjects
+Learning the basics
